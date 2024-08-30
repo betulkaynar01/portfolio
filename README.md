@@ -1,6 +1,6 @@
 # My Portfolio
 
-# 👋 Hi there! I'm Betul Kaynar, a passionate data analyst with a background in bioinformatics. I hold a master's degree in bioinformatics and have completed a BootCamp in data analytics. My expertise lies in leveraging data to uncover insights and drive decision-making.
+👋 Hi there! I'm Betul Kaynar, a passionate data analyst with a background in bioinformatics. I hold a master's degree in bioinformatics and have completed a BootCamp in data analytics. My expertise lies in leveraging data to uncover insights and drive decision-making.
 
 # 🔬 Bioinformatics: During my master's program, I worked on a computational modelling project focused on gut bacteria, where I applied advanced data analysis techniques to biological data.
 
