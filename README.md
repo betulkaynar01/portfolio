@@ -9,9 +9,12 @@ During my master's program, I worked on a computational modelling project focuse
 I am proficient in tools and languages such as Python, R, SQL, and Excel. My analytical skills were honed through various academic projects, and I have a strong foundation in statistical analysis and data visualization.
 
 # 💡 Skills:
-•	Programming Languages: MATLAB, Python, R, SQL
+
+•	Programming Languages: MATLAB, Python, R, SQL 
 •	Data Analysis: Data cleaning, exploratory data analysis, statistical analysis
+
 •	Tools: Excel, Jupyter Notebook, Pandas, Matplotlib
+
 •	Other: Computational biology, bioinformatics tools
 
 # 🚀 Projects: Here are some of the projects I've worked on:
